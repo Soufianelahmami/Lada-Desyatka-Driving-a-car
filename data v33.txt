@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the fast-paced world of modern automobiles, where the focus is often on cutting-edge technology and sleek designs, it's easy to forget the simple pleasure of driving ",
+   "photo1":"https://iili.io/JHQDXZQ.webp"},
+  {"desc2":" However, some vehicles, like the Lada Desyatka, manage to capture the essence of driving for the sheer joy of it","photo2":"https://iili.io/JHQDjnV.webp"},
+  {"desc3":"In this article, we'll take a closer look at the Lada Desyatka and explore why driving this car can be a refreshing and nostalgic experience","photo3":"https://iili.io/JHQDWwx.webp"},
+  {"desc4":"The Lada Desyatka, also known as the VAZ-2101 or Zhiguli, is a small family car that originated in the Soviet Union in the late 1960s","photo4":"https://iili.io/JHQDVuj.webp"},
+  {"desc5":"It was designed to be a practical and affordable mode of transportation for the masses, and it quickly became a symbol of Soviet automotive industry","photo5":"https://iili.io/JHQDwMB.webp"},
+  {"descd":" The Desyatka was known for its simplicity, durability, and affordability, making it a popular choice for generations of drivers in Russia and beyond","photod":"https://iili.io/JHQDN6P.webp"}
    ]
  
 }
