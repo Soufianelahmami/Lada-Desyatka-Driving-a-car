@@ -1,54 +1,60 @@
-{"ads":{
-  
-
-"unity_inter":"Interstitial_Android",
-"unity_banner":"Banner_Android",
-"unity_reward":"Rewarded_Android",
-"unity_gameid":"5082535",
- 
-
-"facebook_inter":"IMG_16_9_APP_INSTALL#1444095999348608_1507496829675191",
-"facebook_banner":"IMG_16_9_APP_INSTALL#1444095999348608_1508844899540384",
-"facebook_native":"IMG_16_9_APP_INSTALL#1444095999348608_1526320831126124",
-"facebook_reward":"PLAYABLE#1444095999348608_1582552458836294",
-  
-
-"admob_inter":"ca-app-pub-3940256099942544/1033173712",
-"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-"admob_native":"ca-app-pub-3940256099942544/2247696110",
-"admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
-  
-"vungle_appid":"645e64defe20a95ccb12bd7b ",
-"vungle_inter":"INTER-5944534",
-"vungle_banner":"DEFAULTBANNER-5844358",
-"vungle_reward":"REWARD-7025613",
-
-  
-
-
-"download_dialog_txt":"download text from server",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
-  
-
-},
-  "my_data":[
-  {"desc1":"In the fast-paced world of modern automobiles, where the focus is often on cutting-edge technology and sleek designs, it's easy to forget the simple pleasure of driving ",
-   "photo1":"https://iili.io/JHQDXZQ.webp"},
-  {"desc2":" However, some vehicles, like the Lada Desyatka, manage to capture the essence of driving for the sheer joy of it","photo2":"https://iili.io/JHQDjnV.webp"},
-  {"desc3":"In this article, we'll take a closer look at the Lada Desyatka and explore why driving this car can be a refreshing and nostalgic experience","photo3":"https://iili.io/JHQDWwx.webp"},
-  {"desc4":"The Lada Desyatka, also known as the VAZ-2101 or Zhiguli, is a small family car that originated in the Soviet Union in the late 1960s","photo4":"https://iili.io/JHQDVuj.webp"},
-  {"desc5":"It was designed to be a practical and affordable mode of transportation for the masses, and it quickly became a symbol of Soviet automotive industry","photo5":"https://iili.io/JHQDwMB.webp"},
-  {"descd":" The Desyatka was known for its simplicity, durability, and affordability, making it a popular choice for generations of drivers in Russia and beyond","photod":"https://iili.io/JHQDN6P.webp"}
-   ]
- 
+{
+    "ADS": {
+        "banner_type_1": "yandex",
+        "inter_type_1": "yandex",
+        "native_type_1": "yandex",
+        "reward_type_1": "yandex",
+        "native_or_mrec_1": "native",
+        "ironsource_id": "ironsource_id_value",
+        "unity_id": "unity_id_value",
+        "banner_id_1": "demo-banner-yandex",
+        "interstitial_id_1": "demo-interstitial-yandex",
+        "reward_id_1": "demo-rewarded-yandex",
+        "mrec_id_1": "mrec_id_1_value",
+        "native_id_1": "demo-native-content-yandex",
+        "open_app_id": "demo-appopenad-yandex",
+        "store_link": "demo-native-content-yandex"
+    },
+    "guideData": [
+        {
+            "image_link": "https://iili.io/JJ9s1e9.webp",
+            "title": "Lada Desyatka Driving a car 1",
+            "text_Content_": "The Lada Desyatka, also known as the VAZ-2101 or Zhiguli, is an iconic automobile that holds a special place in the hearts of car enthusiasts and everyday drivers alike. Manufactured by AvtoVAZ in Russia, the Lada Desyatka represents simplicity."
+        },
+        {
+            "image_link": "https://iili.io/JJ9sEbe.webp",
+            "title": "Lada Desyatka Driving a car 2",
+            "text_Content_": "reliability, and a connection to a bygone era. In this article, we will explore the experience of driving a Lada Desyatka and the nostalgia it evokes."
+        },
+        {
+            "image_link": "https://iili.io/JJ9s057.webp",
+            "title": "Lada Desyatka Driving a car 3",
+            "text_Content_": "The Lada Desyatka, introduced in the early 1970s, was based on the Fiat 124 platform, showcasing its Italian roots. However, it quickly became a symbol of Soviet and Russian automotive culture"
+        },
+        {
+            "image_link": "https://iili.io/JJ9slJS.webp",
+            "title": "Lada Desyatka Driving a car 4",
+            "text_Content_": "Over the years, the Lada Desyatka underwent various upgrades and iterations, but it always retained its core attributes: affordability, durability, and ease of maintenance"
+        },
+        {
+            "image_link": "https://iili.io/JJ9sMzu.webp",
+            "title": "Lada Desyatka Driving a car 5",
+            "text_Content_": "Slipping behind the wheel of a Lada Desyatka is like stepping back in time. The car's retro charm, with its boxy design, chrome accents, and utilitarian interior, transports drivers to a different era of automotive design. It's a nostalgic experience that many find deeply satisfying."
+        },
+        {
+            "image_link": "https://iili.io/JJ9sVWb.webp",
+            "title": "Lada Desyatka Driving a car 6",
+            "text_Content_": "One of the defining characteristics of the Lada Desyatka is its simplicity. With manual controls and minimal technology, driving a Desyatka is refreshingly uncomplicated"
+        },
+        {
+            "image_link": "https://iili.io/JJ9sWsj.webp",
+            "title": "Lada Desyatka Driving a car 7",
+            "text_Content_": "This simplicity often resonates with drivers who appreciate the tactile connection to the vehicle"
+        },
+        {
+            "image_link": "https://iili.io/JJ9shqx.webp",
+            "title": "Lada Desyatka Driving a car 8",
+            "text_Content_": "The Lada Desyatka's reputation for reliability is legendary. Its robust engine and durable construction make it a dependable choice for daily commuting or long road trips"
+        }
+    ]
 }
-   
